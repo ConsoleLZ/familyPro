@@ -1,0 +1,11 @@
+{
+  "name": "Family Pro",
+  "version": "1.3.5",
+  "description": "这是一个家教兼职类应用",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "刘哲",
+  "license": "ISC"
+}
