@@ -11,8 +11,9 @@
 			const adapters = require('static/js/sangFangKu/adapters.js')
 			AV.setAdapters(adapters);
 			AV.init({
-				appId: "oIIbvLZCzqBIhw5ILnQ0W3lX-gzGzoHsz",
-				appKey: "foT9WDS9ULTkoi706eiIZq8y",
+				// 填写自己的leanCloud平台的appId与appKey
+				appId: "",
+				appKey: "",
 				serverURL: "https://oiibvlzc.lc-cn-n1-shared.com"
 			});
 		},
